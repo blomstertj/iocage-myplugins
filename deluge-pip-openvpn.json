@@ -12,7 +12,7 @@
         "python37",
         "py37-pip",
         "py37-pillow",
-        "py37-libtorrent-rasterbar"
+        "py37-libtorrent-rasterbar",
         "openvpn"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
